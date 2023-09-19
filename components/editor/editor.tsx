@@ -5,6 +5,7 @@ import { editor } from "monaco-editor";
 
 export default function Editor() {
   const editorRef = useRef<editor.IStandaloneCodeEditor | null>(null);
+  const [showModal, setShowModal] = React.useState(false);
 
   const handleSave = async () => {
     if (editorRef.current) {
@@ -15,6 +16,7 @@ export default function Editor() {
       //   headers: { 'Content-Type': 'application/json' },
       // });
       console.log(`Saved to Github. ${content}`)
+      setShowModal(true);
       alert(`Saved to Github. ${content}`);
     }
   };
@@ -75,6 +77,12 @@ export default function Editor() {
         }}
         onMount={handleEditorDidMount}
       />
+      { showModal && (
+        <div className="your-modal-class">
+          Saved to GitHub.
+          <button onClick={() => setShowModal(false)}>Close</button>
+        </div>
+      )}
     </div>
   );
 };
