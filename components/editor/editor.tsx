@@ -14,6 +14,7 @@ export default function Editor() {
       //   body: JSON.stringify({ content }),
       //   headers: { 'Content-Type': 'application/json' },
       // });
+      console.log(`Saved to Github. ${content}`)
       alert(`Saved to Github. ${content}`);
     }
   };
