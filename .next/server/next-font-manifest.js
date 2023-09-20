@@ -1,0 +1,29 @@
+self.__NEXT_FONT_MANIFEST={
+  "pages": {
+    "/_app": [
+      "static/media/73d0904172bbcfc7-s.p.woff2",
+      "static/media/5dfb1d0134f1564c-s.p.otf",
+      "static/media/38cfa075319a1649-s.p.woff2",
+      "static/media/5618150fe641efc4-s.p.woff2"
+    ]
+  },
+  "app": {
+    "/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[1].oneOf[3].use[1]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[1].oneOf[3].use[2]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/font/google/target.css?{\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-inter\"}],\"import\":\"Inter\",\"path\":\"styles/fonts.ts\",\"variableName\":\"inter\"}": [
+      "static/media/73d0904172bbcfc7-s.p.woff2"
+    ],
+    "/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[1].oneOf[4].use[1]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[1].oneOf[4].use[2]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/font/local/target.css?{\"arguments\":[{\"display\":\"swap\",\"src\":\"./CalSans-SemiBold.otf\",\"variable\":\"--font-cal\",\"weight\":\"600\"}],\"import\":\"\",\"path\":\"styles/fonts.ts\",\"variableName\":\"cal\"}": [
+      "static/media/5dfb1d0134f1564c-s.p.otf"
+    ],
+    "/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[1].oneOf[4].use[1]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[1].oneOf[4].use[2]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/font/local/target.css?{\"arguments\":[{\"display\":\"swap\",\"src\":\"./CalSans-SemiBold.otf\",\"variable\":\"--font-title\",\"weight\":\"600\"}],\"import\":\"\",\"path\":\"styles/fonts.ts\",\"variableName\":\"calTitle\"}": [
+      "static/media/5dfb1d0134f1564c-s.p.otf"
+    ],
+    "/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[1].oneOf[3].use[1]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[1].oneOf[3].use[2]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/font/google/target.css?{\"arguments\":[{\"display\":\"swap\",\"subsets\":[\"latin\"],\"variable\":\"--font-title\",\"weight\":\"600\"}],\"import\":\"Lora\",\"path\":\"styles/fonts.ts\",\"variableName\":\"lora\"}": [
+      "static/media/38cfa075319a1649-s.p.woff2"
+    ],
+    "/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[1].oneOf[3].use[1]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/dist/build/webpack/loaders/next-font-loader/index.js??ruleSet[1].rules[1].oneOf[3].use[2]!/home/pdhoward/aidemov2/node_modules/.pnpm/next@13.4.0_react-dom@18.2.0_react@18.2.0/node_modules/next/font/google/target.css?{\"arguments\":[{\"display\":\"swap\",\"subsets\":[\"latin\"],\"variable\":\"--font-title\",\"weight\":\"600\"}],\"import\":\"Work_Sans\",\"path\":\"styles/fonts.ts\",\"variableName\":\"work\"}": [
+      "static/media/5618150fe641efc4-s.p.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": true
+}
